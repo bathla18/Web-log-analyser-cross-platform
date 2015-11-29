@@ -1,0 +1,4 @@
+204.243.130.1 - - [26/Feb/2001:15:34:52 -0600] "GET / HTTP/1.0" 200 8437 "http://metacrawler.com/crawler?general=dimensional+modeling" "Mozilla/4.5 [en] (Win98; I)"
+204.243.130.2 - - [26/Feb/2001:15:34:53 -0600] "GET /logo1.gif HTTP/1.0" 200 1900 "http://www.clickstreamconsulting.com/" "Mozilla/4.5 [en](Win98; I)"
+204.243.130.3 - - [26/Feb/2001:15:35:26 -0600] "GET /articles.html HTTP/1.0" 200 7363 "http://www.clickstreamconsulting.com/" "Mozilla/4.5[en] (Win98; I)"
+204.243.130.55 - - [26/Feb/2001:15:34:52 -0600] "GET / HTTP/1.0" 200 8437 "http://metacrawler.com/crawler?general=dimensional+modeling" "Mozilla/4.5 [en] (Win98; I)"
